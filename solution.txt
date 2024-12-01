@@ -1,0 +1,7 @@
+If anyone ever cracks this it must mean the bcrypt algorithm itself is figured out lol.
+
+$2a$12$DDmIWGHvvRHN/M2kjKz4CePdum6L14aFxgaHojUrg9cc.V3Mtl/5m : wow_you_triumphed_over_the_mighty_bcrypt_and_cracked_the_hash!
+
+
+
+Also what the h*** does "Skibidi" mean? I heard someone use it and now I've been using it too for a while and at this point i'm too afraid to ask 
